@@ -7,7 +7,7 @@ uploadContext = uploadCanvas.getContext('2d'),
 uploadedPhoto = document.getElementById('uploadedPhoto'),
 capturedPhoto = document.getElementById('capturedPhoto'),
 imageUploadInput = document.querySelector('[name="image-upload"]'),
-apiKey = 'INSERT_YOUR_FACESOFT_API_KEY',
+apiKey = 'x6pft1odr2f-csu15q2y7bn',
 errorAlert = document.getElementById('errorAlert'), AlertwarningAlert = document.getElementById('warningAlert'),
 matchText = document.getElementById('match'),
 scoreText = document.getElementById('score');
